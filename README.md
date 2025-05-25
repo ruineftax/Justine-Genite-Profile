@@ -61,7 +61,15 @@
 ![Testimony Mahi Pono 1](https://github.com/user-attachments/assets/79485cec-6bd5-44a0-91b1-c26fc70232d2)
 
 
+---
 
+🤝 Soft Skills
+* Strong communicator — written and verbal
+* Deadline-oriented and reliable under pressure
+* Collaborative team player and independent problem solver
+* Quick to adapt to new systems and tools
+* Analytical thinker with strong documentation habits
+---
 
 ### 📚 Featured Projects
 [AP Invoice Tracker ](https://github.com/ruineftax/Sample-invoice-monitoring)  
@@ -71,4 +79,8 @@
 
 [Purchase Order Monitoring](https://github.com/ruineftax/Purchase-Order-Monitoring/tree/main)  
 - A customizable Excel tracker to check status of Purchase Order
-  
+---
+
+
+### 📬 Let's Connect
+📧 justinegenite16@gmail.com
