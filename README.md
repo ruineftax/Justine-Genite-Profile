@@ -31,6 +31,6 @@
 ### 📚 Featured Projects
 [AP Invoice Tracker ](https://github.com/ruineftax/Sample-invoice-monitoring)  
 - A customizable Excel tracker for monitoring invoice statuses across multiple vendors
-[Purchase Order Monitoring](github.com/yourprofile/Month-End-Checklist)  
+[Purchase Order Monitoring](https://github.com/ruineftax/Purchase-Order-Monitoring/tree/main)  
 - A customizable Excel tracker to check status of Purchase Order
   
