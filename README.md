@@ -25,8 +25,36 @@
 - Monitor payment schedules and ensure prompt processing to avoid late fees or interest
 - Follow up with internal teams for approvals and receiving confirmations, especially for 
   dropshipping invoices
-
 ---
+
+🛠️ Skills & Competencies
+* Invoice Processing (PO & Non-PO)
+* Vendor Communication & Credit Resolution
+* Reconciliation of Vendor Statements
+* Financial Data Entry & Recordkeeping
+* Report Generation (Aging, Overdue, Prepaid, etc.)
+* Payment Scheduling & Follow-ups
+* Audit Support & Documentation
+* Dropshipping & Inventory Invoice Matching
+* Approval Workflow Coordination
+* ERP Navigation & Invoice Matching
+---
+
+📊 Tools/Software Experience (Knowledge)
+* ERP System: Oracle Netsuite, Oracle, Sap Business One, and Infor Cloudsite
+* Accounting Software: Quickbooks Online and Xero
+* Communications: Slack, Teams, Google Chat
+* Emails: Outlook and Gmail
+* Microsoft Excel
+---
+
+💬 Testimonials
+* Great Support to the team -- Client from Hawaii
+![Testimony Mahi Pono](https://github.com/user-attachments/assets/13860a08-3dee-474d-afd4-67c4cfcaba44)
+
+* Finish Work on time -- Client from Hawaii
+![Testimony Mahi Pono 1](https://github.com/user-attachments/assets/79485cec-6bd5-44a0-91b1-c26fc70232d2)
+
 
 ### 📚 Featured Projects
 [AP Invoice Tracker ](https://github.com/ruineftax/Sample-invoice-monitoring)  
